@@ -1,6 +1,6 @@
 # Vul-Image-Generator
 
-### What Ihis is
+### What is this?
 This crate handles image related stuff for VulAI which can be either image generation or manipulation be it img2img or noise2img or text2image, maybe someday Audio2Image?
 
 ### What I want
